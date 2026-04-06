@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**amandadeoliveira123/amandadeoliveira123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Olá! Eu sou a Amanda
 
-Here are some ideas to get you started:
+Profissional de suporte de TI com atuação em infraestrutura de redes, sempre focada em garantir a estabilidade e eficiência dos sistemas. Sou apaixonada por tecnologia e estou em constante aprendizado para acompanhar as inovações da área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS), expandindo meus conhecimentos em desenvolvimento, lógica de programação e soluções tecnológicas.
+
+💡 Interesses:
+
+* Infraestrutura de redes
+* Suporte técnico e troubleshooting
+* Automação
+* Segurança da informação
+* Desenvolvimento de sistemas
+
+🚀 Sempre em busca de evoluir e contribuir com soluções que façam a diferença!
