@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👩‍💻 Olá! Eu sou Amanda
+👩‍💻 Olá, eu sou Amanda!
 
 Profissional de suporte de TI com atuação em infraestrutura de redes, sempre focada em garantir a estabilidade e eficiência dos sistemas. Sou apaixonada por tecnologia e estou em constante aprendizado para acompanhar as inovações da área.
 
